@@ -2,9 +2,9 @@
 
 ####General description：  
 
-**[1]EnableQ Online Questionnaire Engine V10.X has a SQL injection vulnerability.The vulnerability stems from the AjaxCheckTextRepeat.php file failing to filter the qid parameters. Remote attackers can use the vulnerability to obtain database sensitive information**  
+**[1]CVE-2018-19605:EnableQ Online Questionnaire Engine V10.X has a SQL injection vulnerability.The vulnerability stems from the AjaxCheckTextRepeat.php file failing to filter the qid parameters. Remote attackers can use the vulnerability to obtain database sensitive information**  
 
-**[2]EnableQ Online Questionnaire Engine V10.X has a Remote Code Execution Vulnerability in the front desk. Remote unauthorized attackers can use this vulnerability to execute code and gain server control**  
+**[2]CVE-2018-19606:EnableQ Online Questionnaire Engine V10.X has a Remote Code Execution Vulnerability in the front desk. Remote unauthorized attackers can use this vulnerability to execute code and gain server control**  
 
 _ _ _
 
